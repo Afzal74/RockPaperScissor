@@ -62,3 +62,6 @@ const playGame = (userChoice) => {
       playGame(userChoice);
     });
   });
+
+  //improving js code
+  
